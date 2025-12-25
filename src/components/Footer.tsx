@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="font-display text-4xl text-foreground">Lauree Brown</h3>
+            <h3 className="font-display text-4xl text-foreground">Dr. Lauree Brown</h3>
             <p className="font-sans text-sm text-muted-foreground leading-relaxed max-w-xs">
               Author of historical fiction that illuminates the strength of women through faith.
             </p>
@@ -64,7 +64,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="mt-16 pt-8 border-t border-border/20">
           <p className="font-sans text-xs text-muted-foreground text-center">
-            © {new Date().getFullYear()} Lauree Brown. All rights reserved.
+            © {new Date().getFullYear()} Dr. Lauree Brown. All rights reserved.
           </p>
         </div>
       </div>

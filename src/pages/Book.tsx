@@ -17,7 +17,7 @@ const Book = () => {
                 <div className="absolute -inset-8 bg-gradient-radial from-primary/20 via-transparent to-transparent blur-2xl animate-glow-pulse" />
                 <img
                   src={bookCover}
-                  alt="Beyond the Well by Lauree Brown"
+                  alt="Beyond the Well by Dr. Lauree Brown"
                   className="relative w-72 md:w-80 lg:w-96 h-auto shadow-2xl animate-float"
                   style={{
                     filter: 'drop-shadow(0 25px 50px rgba(0, 0, 0, 0.5))',

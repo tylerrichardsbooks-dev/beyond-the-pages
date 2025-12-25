@@ -41,7 +41,7 @@ const AuthorTeaser = () => {
               <div className="absolute -inset-4 bg-gradient-radial from-primary/10 via-transparent to-transparent blur-2xl" />
               <img
                 src={authorImage}
-                alt="Lauree Brown"
+                alt="Dr. Lauree Brown"
                 className="relative w-full max-w-sm mx-auto lg:mx-0 aspect-[3/4] object-cover object-top grayscale hover:grayscale-0 transition-all duration-slow"
                 style={{
                   filter: 'drop-shadow(0 20px 40px rgba(0, 0, 0, 0.3))',
@@ -59,7 +59,7 @@ const AuthorTeaser = () => {
           >
             <p className="font-display text-primary text-2xl mb-4">The Author</p>
             <h2 className="font-serif text-3xl md:text-4xl font-light text-foreground mb-6">
-              Lauree Brown
+              Dr. Lauree Brown
             </h2>
             <p className="font-serif text-lg text-foreground/80 leading-relaxed mb-8">
               Lauree writes to give voice to women whose stories history almost forgot—fierce, fallible, and finding their way toward light.

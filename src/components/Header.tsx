@@ -40,7 +40,7 @@ const Header = () => {
             to="/"
             className="font-display text-3xl text-foreground hover:text-primary transition-colors duration-medium"
           >
-            Lauree Brown
+            Dr. Lauree Brown
           </Link>
 
           {/* Desktop Navigation */}
