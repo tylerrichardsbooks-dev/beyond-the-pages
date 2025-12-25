@@ -25,14 +25,14 @@ const Press = () => {
                 <div>
                   <h2 className="font-serif text-2xl text-foreground mb-4">About the Book</h2>
                   <p className="font-serif text-foreground/80 leading-relaxed">
-                    Beyond the Well is a work of historical fiction exploring the life of the Samaritan woman before and after her encounter with Jesus at Jacob's well. Through meticulous research and imaginative storytelling, author Lauree Brown gives voice to a woman history nearly forgot.
+                    Beyond the Well is a work of historical fiction exploring the life of the Samaritan woman before and after her encounter with Jesus at Jacob's well. Through meticulous research and imaginative storytelling, author Dr. Lauree Brown gives voice to a woman history nearly forgot.
                   </p>
                 </div>
 
                 <div>
                   <h2 className="font-serif text-2xl text-foreground mb-4">About the Author</h2>
                   <p className="font-serif text-foreground/80 leading-relaxed">
-                    Lauree Brown writes historical fiction that illuminates the strength of women through faith. Beyond the Well is her debut novel.
+                    Dr. Lauree Brown writes historical fiction that illuminates the strength of women through faith. Beyond the Well is her debut novel.
                   </p>
                 </div>
 

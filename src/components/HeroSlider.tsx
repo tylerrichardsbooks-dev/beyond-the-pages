@@ -122,7 +122,7 @@ const HeroSlider = () => {
               
               <img
                 src={bookCover}
-                alt="Beyond the Well by Lauree Brown"
+                alt="Beyond the Well by Dr. Lauree Brown"
                 className="relative w-64 md:w-80 lg:w-96 h-auto shadow-2xl animate-float"
                 style={{
                   filter: 'drop-shadow(0 30px 60px rgba(0, 0, 0, 0.6))',
